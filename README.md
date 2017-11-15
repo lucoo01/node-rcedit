@@ -1,4 +1,5 @@
 # node-rcedit
+# 用来修改window的exe文件的信息
 
 [![Travis Build Status](https://travis-ci.org/electron/node-rcedit.svg?branch=master)](https://travis-ci.org/electron/node-rcedit)
 [![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/m880ovvfwukowyne/branch/master?svg=true)](https://ci.appveyor.com/project/electron-bot/node-rcedit/branch/master)
